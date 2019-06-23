@@ -7,8 +7,8 @@ Copyright (c) 2019 Justin C. Bagley. All rights reserved.
 ## Contents
 
 - README
-- Poster (\*.pdf)
-- References (References.md)
-- Photo Credits (Photo_Credits.md)
-- Additional Readings (Additional_Readings.md)
+- Poster ('\*.pdf')
+- References ('References.md')
+- Photo Credits ('Photo_Credits.md')
+- Additional Readings ('Additional_Readings.md')
 
